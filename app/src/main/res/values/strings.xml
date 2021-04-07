@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TiresApp</string>
+    <string name="login">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="edit_info_to_enter">Введите данные для входа</string>
+    <string name="current_pressure">Текущее давление</string>
+    <string name="recommended_pressure">Рекомендованное давление</string>
+    <string name="weather">Погодные условия</string>
+    <string name="phone_number">Телефон</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="enter_profile_info">Давайте заполним ваш профиль</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="skip">Пропустить</string>
+    <string name="send_sms">Отправить смс</string>
+    <string name="confirmation_code">Код подтверждения</string>
+</resources>
