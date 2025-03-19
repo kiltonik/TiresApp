@@ -115,6 +115,9 @@ class MainActivity : AppCompatActivity() {
                             .show()
                     finish()
                 }
+
+                // Some test
+                val a = "something"
                 return
             }
         }
