@@ -70,6 +70,9 @@ class MainActivity : AppCompatActivity() {
 //                    Manifest.permission.ACCESS_BACKGROUND_LOCATION
 //                )
             else checkAuth()
+
+            // Some change to tirgger something
+            val a = 1
         }
         else checkAuth()
     }
